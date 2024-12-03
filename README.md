@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jishnu Suresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="./Photo.jpeg" alt="Welcome Banner" width="800">
+</p>
 
 
 - 🌱 I’m currently learning **Full Stack**
