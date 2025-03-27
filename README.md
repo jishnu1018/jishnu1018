@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jishnu Suresh</h1>
-<h3 align="center">An innovative software developer from India</h3>
+<h3 align="center">An innovative Web Developer from India</h3>
 <img src="Pic.jpeg" alt="image" height="300">
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **BLOCK CHAIN**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 📫 How to reach me **ji2003jishnu@gmail.com**
+- 📫 How to reach me **jishnusuresh1810@gmail.com**
 
-- ⚡ Fun fact **⚡ I build websites, you know why? Because i'm BATMAN**
+- ⚡ Fun fact **⚡ I turn ideas into interactive realities! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
